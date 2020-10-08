@@ -3,4 +3,4 @@ import time
 import random
 
 pygame.init
-white=(255,22255)
+white=(255,255)
